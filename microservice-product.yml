@@ -64,4 +64,4 @@ eureka:
     instance-id: ${spring.application.name}:${server.port}_hystrix # 指定实例ID,就不会显示主机名称
     prefer-ip-address: true
 emp:
- name: wxy
+ name: ses
